@@ -3,4 +3,4 @@
 - 👀 I’m interested in Osint
 - 🌱 I’m currently learning 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Z10Ash &theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash&show_icons=true&theme=radical)
