@@ -5,4 +5,9 @@
 
 --------------------------------------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ash&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)            ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash&show_icons=true&theme=radical)
+<i class="programming lang-ruby"></i>
+<i class="programming lang-javascript"></i>
+<i class="programming lang-cpp"></i>
+<i class="programming lang-typescript"></i>
+<i class="programming lang-python"></i>
+<i class="programming lang-kotlyn"></i>           ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ash&show_icons=true&theme=radical)
